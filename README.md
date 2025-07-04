@@ -7,7 +7,7 @@
 4. Install requirements
    ``` pip install -r requirements.txt ```
 5. Run application
-   ``` uvicorn main:app --reload ```
+   ``` uvicorn main:app ```
 6. Go to localhost to see further info, testing, and UI
    http://127.0.0.1:8000
 
