@@ -2,11 +2,13 @@
 
 ## Setup
 1. Download repo
-2. Install requirements
+2. Install Python
+   ```brew install python```
+4. Install requirements
    ``` pip install -r requirements.txt ```
-3. Run application
+5. Run application
    ``` uvicorn main:app --reload ```
-4. Go to localhost to see further info, testing, and UI
+6. Go to localhost to see further info, testing, and UI
    http://127.0.0.1:8000
 
 ## Implementation
