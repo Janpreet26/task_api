@@ -2,8 +2,8 @@
 
 ## Setup
 1. Download repo
-2. Activate virtual env
-   ``` source .venv/bin/activate ```
+2. Install requirements
+   ``` pip install -r requirements.txt ```
 3. Run application
    ``` uvicorn main:app --reload ```
 4. Go to localhost to see further info, testing, and UI
